@@ -7,3 +7,8 @@ Loan Summary Dashboard: A dynamic dashboard showcasing key metrics such as total
 Loan Overview: Analysis of loans based on borrower demographics, geography, loan amount, and interest rate.
 Details: Visualize all details of borrower.
 Interactive Filters: Users can interact with the dashboard by applying filters to view specific loan segments, dates, or regions.
+
+## Technologies Used:
+SSMS for SQL: For the data analysis and analyze key performance indicator.
+Power BI: The data analysis and visualization tool used to create dashboards and reports.
+DAX & Power Query: Custom calculations and data transformations used for deeper analysis.
