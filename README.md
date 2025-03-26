@@ -12,3 +12,6 @@ Interactive Filters: Users can interact with the dashboard by applying filters t
 SSMS for SQL: For the data analysis and analyze key performance indicator.
 Power BI: The data analysis and visualization tool used to create dashboards and reports.
 DAX & Power Query: Custom calculations and data transformations used for deeper analysis.
+
+## Benefits
+This dashboard use for bank managers to assess and improve loan portfolio performance, identify and mitigate risks, optimize operational efficiency, make data-driven and strategy decisions.
